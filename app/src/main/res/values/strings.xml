@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movie 2</string>
+
+    <string name="show_network_error_message">No Internet Connection! Make sure you connected to the Internet :(</string>
+    <string name="no_internet_message">No Internet Connection!</string>
+    <string name="no_network_connection_review_message"> No reviews available, check your connection and try again  </string>
+
+    <string name="movie_synopsis">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="high_rated">High Rated</string>
+    <string name="my_favorite">My Favorite</string>
+    <string name="no_reviews_message">This movie has no reviews</string>
+    <string name="no_trailers_message">No trailers available , check your connection and try again </string>
+
+    <string name="details_activity">Details</string>
+
+    <string name="long_text">The seventeen year-old Hazel Grace has lung cancer and needs to carry an oxygen tank wherever she goes. Her mother Frannie encourages her to go to a cancer support group against her will. However, when Hazel meets the eighteen year-old Gus, who lost part of one leg with cancer but apparently is cured, they fall in love with each other. Hazel introduces her favorite novel to Gus and tells that she dreamed on having a conversation with the author, Van Houten, who lives in Amsterdam. Gus contacts him and Van Houten invites them to visit him in Amsterdam. They travel to Netherlands with Frannie where Hazel will learn that things are not like they seem to be.</string>
+    <string name="expand_view_more">View more</string>
+    <string name="collapse">collapse</string>
+    <string name="no_favorite_movies_message">You have no favorite movies</string>
+
+</resources>
