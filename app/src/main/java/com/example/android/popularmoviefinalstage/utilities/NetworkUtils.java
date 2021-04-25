@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class NetworkUtils {
     private static final String TAG = NetworkUtils.class.getSimpleName();
 
-    private static final String API_KEY = "3c62d00f4bf06037163f7adc86429a1f";
+    private static final String API_KEY = "YOUR_API_KEY";
 
     private static final String BASE_MOVIE_URL = "https://api.themoviedb.org/3/movie";
 
